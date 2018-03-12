@@ -1,0 +1,182 @@
+
+
+.wcm-all-content {
+	padding: 60px 0px 0px 0px !important;
+}
+
+#wcm-content {
+  padding: 0px !important;
+  margin-top: -30px !important;
+}
+/*footer css*/
+
+.footerTp {
+	color: white !important;
+	background-color: #003c74 !important;
+	width: 100%;
+	height: 100px;
+  text-decoration: none;
+}
+
+.informationFooterDiv{
+  margin-top: 5px;
+}
+
+.navFooter {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+.ulFooterTp {
+  padding: 0px !important;
+  display: inline-block;
+}
+
+.liFooterTp>p {
+  display: inline-block;
+}
+
+.liFooterTp {
+  margin-left: 10px;
+  display: inline-block;
+}
+.imgFooter {
+  height: 30px;
+  width: 30px;
+}
+
+.footerTp {
+ color: white !important;
+ background-color: #003D78 !important;
+ width: 100%;
+ height: 150px !important;
+  text-decoration: none;
+}
+
+.informationFooterDiv{
+  margin-top: 5px;
+}
+
+.navFooter {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+.ulFooterTp {
+  padding: 0px !important;
+  display: inline-block;
+}
+
+.liFooterTp>p {
+  display: inline-block;
+}
+
+.liFooterTp {
+  margin-left: 10px;
+  display: inline-block;
+}
+.imgFooter {
+  height: 30px;
+  width: 30px;
+}
+
+ul.ulFooterTp a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/*  CSS MENU HORIZONTAL  */
+
+.WCMHtmlEditor {
+  overflow: hidden!important;
+}
+
+.navComu {
+  background-color: #0076a7;
+  width: 100%;
+  height: 90px;
+  color: white;
+  text-decoration: none;
+}
+
+.InformativeNav {
+  width: 35%;
+  float: left;
+  height: 100%;
+  display: inline;
+  margin-left: 40px;
+  padding-top: 5px;
+}
+
+.firstInfo {
+  display: inline;
+  position: relative;
+  top: 15px;
+  margin-left: 5%;
+  font-size: 25px;
+  font-family: SancoaleSoftenedRegularItal;
+  font-size: 30px;
+}
+
+.pipe {
+  position: relative;
+  top: 15px;
+  color: white;
+  font-family: SancoaleSoftenedRegularItal;
+  font-size: 25px;
+}
+
+.SecondInfo {
+  position: relative;
+  top: 15px;
+  left: 5px;
+  font-size: 25px;
+  font-family: SancoaleSoftenedRegularItal;
+  font-size: 30px;
+}
+
+.TrirdInfo {
+  position: relative;
+  margin-left: 5%;
+  top: 5px;
+  font-style: italic;
+}
+
+/*		.ulWrapper {
+		  display: inline;
+		  height: 100%;
+		  width: 65%;
+		}*/
+
+.liWrapper {
+  padding-top: 35px !important;
+}
+
+.liWrapper>li {
+  display: inline;
+  margin-left: 50px;
+  font-family: SancoaleSoftenedRegularItal;
+}
+
+.liWrapper>li>a:hover {
+  color: white !important;
+  text-decoration: none !important;
+  font-weight: bold !important;
+}
+
+.liWrapper:first-child{
+  margin-left: 0px;
+}
+
+.liWrapper>li>a {
+  color: white;
+  font-family: SancoaleSoftenedRegularItal;
+  text-decoration: none;
+  font-size: 18px !important;
+}
+
+ul.ulFooterTp a:hover {
+    color: #FFFFFF;
+}
